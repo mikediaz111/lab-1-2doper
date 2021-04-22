@@ -1,0 +1,16 @@
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\LAB 2 2do PER.vbprojAssemblyReference.cache
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\LAB 2 2do PER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\LAB 2 2do PER.AssemblyInfoInputs.cache
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\LAB 2 2do PER.AssemblyInfo.vb
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\LAB 2 2do PER.vbproj.CoreCompileInputs.cache
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\bin\Debug\net5.0\LAB 2 2do PER.exe
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\bin\Debug\net5.0\LAB 2 2do PER.deps.json
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\bin\Debug\net5.0\LAB 2 2do PER.runtimeconfig.json
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\bin\Debug\net5.0\LAB 2 2do PER.runtimeconfig.dev.json
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\bin\Debug\net5.0\LAB 2 2do PER.dll
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\bin\Debug\net5.0\ref\LAB 2 2do PER.dll
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\bin\Debug\net5.0\LAB 2 2do PER.pdb
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\LAB 2 2do PER.dll
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\ref\LAB 2 2do PER.dll
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\LAB 2 2do PER.pdb
+C:\Users\Miguel\Downloads\new\lab1 2per\LAB 2 2do PER\LAB 2 2do PER\obj\Debug\net5.0\LAB 2 2do PER.genruntimeconfig.cache
